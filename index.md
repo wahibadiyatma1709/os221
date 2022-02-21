@@ -1,7 +1,7 @@
 # OS221 : Operating Systems 2022-1
 ## By : {{ site.author }}
 
-[Home]({{site.baseurl}}) - [Log]({{site.myloglink}}) - [Github]({{site.githublink}}) - [Links](https://github.com/wahibadiyatma1709/os221/LINKS/)
+[Home]({{site.baseurl}}) - [Log]({{site.myloglink}}) - [Github]({{site.githublink}}) - [Links](https://wahibadiyatma1709.github.io/os221/LINKS/)
 
 This is OS221: Operating Systems 2022-1 and I am Wahib Adiyatma
 
