@@ -4,6 +4,7 @@ author:      "Wahib Adiyatma"
 title:       "OS221: Operating Systems 2022-1"
 githublink:  "https://github.com/wahibadiyatma1709/os221/"
 myloglink:   "TXT/mylog.txt"
+myLinkslink: "/LINKS/"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM
