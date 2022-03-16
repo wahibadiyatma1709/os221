@@ -22,3 +22,10 @@ Video youtube menarik mengenai basic dari Git flow. Menurut saya video ini cukup
 Ketika mengerjakan assignment week03, saya masih belum terbiasa dengan commands yang ada di linux. Oleh karena itu saya searching di google dan menemukan link ini yang cukup membantu.
 3. [Linux Hierarchy](https://www.javatpoint.com/linux-file-hierarchy-system)\
 Berkaitan dengan assignment week 03, kita diminta untuk masuk ke root user linux. Awalnya saya penasaran apa beda root user dan user biasa hingga saya menemukan link ini yang saya rasa cukup membantu untuk memahami hierarki di linux
+
+## Week04
+1. [Memory Allocation](https://www.techopedia.com/definition/27492/memory-allocation#:~:text=Memory%20allocation%20is%20a%20process,execution%20of%20programs%20and%20processes.)
+Link mengenai alokasi memori pada bahasa pemrograman C
+
+2. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)
+Link mengenai penjelasan pointer pada bahasa C
