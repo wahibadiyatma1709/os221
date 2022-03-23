@@ -29,3 +29,10 @@ Link mengenai alokasi memori pada bahasa pemrograman C
 
 2. [Pointer in C](https://www.youtube.com/watch?v=mw1qsMieK5c)
 Link mengenai penjelasan pointer pada bahasa C
+
+## Week05
+1. [Virtual Memory 101](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Link dari GeeksforGeeks mengenai virtual memory dalam sistem operasi
+
+2. [Swaping in Operating System](https://www.compuhoy.com/what-is-swapping-in-operating-system/)
+Link penjelasan mengenai swapping
