@@ -22,3 +22,11 @@ ZCZC W02 300 L09 Assignment in General
 
 ZCZC W03 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W03 100 L09 Assignment Week 03
+
+ZCZC W04 110 L02 ZOOM meetings related (thursday class)
+ZCZC W04 270 L09 Assignment in General
+ZCZC W04 030 L06 References and GSGS related about GnuPG
+
+ZCZC W05 110 L02 ZOOM meetings related (tuesday class)
+ZCZC W05 110 L02 ZOOM meetings related (thursday class)
+ZCZC W05 150 L09 Assignment in General
