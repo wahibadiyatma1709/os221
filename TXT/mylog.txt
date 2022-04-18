@@ -30,3 +30,6 @@ ZCZC W04 030 L06 References and GSGS related about GnuPG
 ZCZC W05 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W05 110 L02 ZOOM meetings related (thursday class)
 ZCZC W05 150 L09 Assignment in General
+
+ZCZC W06 110 L02 ZOOM meetings related (tuesday class)
+ZCZC W06 120 L09 Assignment in General
