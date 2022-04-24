@@ -36,3 +36,17 @@ Link dari GeeksforGeeks mengenai virtual memory dalam sistem operasi
 
 2. [Swaping in Operating System](https://www.compuhoy.com/what-is-swapping-in-operating-system/)
 Link penjelasan mengenai swapping
+
+## Week06
+1. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)\
+Pada link ini menjelaskan secara umum terkait apa itu concurrency dalam Operating System. Setelah membaca web ini, yang dapat saya tangkap terkait concurrency adalah proses eksekusi instruksi secara bersamaan dalam kurun waktu yang bersamaan.
+
+2. [Threadding](https://www.geeksforgeeks.org/thread-in-operating-system/)\
+Saya menemukan artikel menarik pada website diatas yang membahas perbedaan anatara thread dengan proses pada saat terjadi eksekusi sebuah program.
+
+## Week07
+1. [Race condition](https://jenkov.com/tutorials/java-concurrency/race-conditions-and-critical-sections.html)\
+Website yang menjelaskan masalah race condition. Berdasarkan yang saya baca pada link diatas, race condition adalah suatu permasalahan dalam dunia concurrency yang terdapat didalam critical section. Pada dasarnya critical section adalah suatu block of code yang dieksekusi oleh multiple threads yang mana pada masing-masing thread terdapat urutan yang mengakibatkan perbedaan dalam hasil eksekusi.
+
+2. [Deadlock?](https://www.math-cs.gordon.edu/courses/cs322/lectures/transparencies/banker2.html)\
+Terdapat permasalahan lain dari terminologi concurrency, yakni deadlock. Deadlock adalah suatu kondisi dimana tidak adanya pihak yang mengakses suatu resource karena masing-masing pihak menunggu satu sama lain. Pada link tersebut adalah salah satu solusi untuk mengatasi deadlock dengan menerapkan algoritma banker
