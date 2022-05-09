@@ -50,3 +50,9 @@ Website yang menjelaskan masalah race condition. Berdasarkan yang saya baca pada
 
 2. [Deadlock?](https://www.math-cs.gordon.edu/courses/cs322/lectures/transparencies/banker2.html)\
 Terdapat permasalahan lain dari terminologi concurrency, yakni deadlock. Deadlock adalah suatu kondisi dimana tidak adanya pihak yang mengakses suatu resource karena masing-masing pihak menunggu satu sama lain. Pada link tersebut adalah salah satu solusi untuk mengatasi deadlock dengan menerapkan algoritma banker
+
+## Week08
+1. [Pre-emptive vs Non Pre-emptive](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)\
+Pada link yang saja berikan ini pada dasarnya menjelaskan terkait definisi masing-masing pre-emptive dan non pre-emptive barulah kemudian menjelaskan perbedaan antara keduanya.
+2. [Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)\
+Pada link ini membahas terkait definisi dari scheduling. Kenapa saya sertakan link ini, karena mungkin beberapa dari kalian bertanya-tanya kenapa pada point pertama saya langsung sertakan perbedaan antara pre-emptive dengan non pre-emptive sedangkan tema utama pembahasannya belum diberikan.
