@@ -48,3 +48,8 @@ ZCZC W09 110 L02 ZOOM meetings related (tuesday class)
 ZCZC W09 420 L09 Assignment in General
 ZCZC W09 120 L06 References and GSGS related with RAID
 ZCZC W09 120 L05 Quiz Related (personal study)
+
+ZCZC W10 110 L02 ZOOM meetings related (tuesday class)
+ZCZC W10 720 L09 Assignment in General
+ZCZC W10 110 L02 ZOOM meetings related (thursday class)
+ZCZC W10 060 L10 Quiz related
